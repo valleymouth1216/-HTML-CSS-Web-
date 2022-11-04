@@ -47,3 +47,26 @@ ul.nav_ul {}
 .nav_li a{
 	color: #FAFAFA;
 }
+
+.main_section{
+	background-image: url("img/mv.png");
+	height: 650px;
+	width: 100%;
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+}
+
+.main_section p{
+ color: #FAFAFA;
+}
+
+.main_section_font1{
+	padding-top: 200px;
+	font-size: 64px;
+}
+
+.main_section_font2{
+	padding-top: 10px;
+	font-size: 20px;
+}
